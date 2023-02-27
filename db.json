@@ -1,0 +1,95 @@
+{
+  "card-data": [
+    {
+      "name": "Onion",
+      "price": "400",
+      "country": "Armenia",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1675898605/qihfu9gkmck2dywglc5x.png",
+      "id": 23
+    },
+    {
+      "name": "Quince",
+      "price": "500",
+      "country": "Armenia",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1676150664/lp1cbgqaq2tgash7f6ky.png",
+      "id": 48
+    },
+    {
+      "name": "Avocado",
+      "price": "400",
+      "country": "Mexico",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1676150634/xbimvdsig5fupkspul7w.png",
+      "id": 59
+    },
+    {
+      "name": "Apricot",
+      "price": "500",
+      "country": "Armenia",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1676150618/azmpq2gllho1jwb7kmyq.png",
+      "id": 64
+    },
+    {
+      "name": "Tomato",
+      "price": "400",
+      "country": "Armenia",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1675898057/hedzzs2s1rdmnxdl0ykw.png",
+      "id": 13
+    },
+    {
+      "name": "Eggplant",
+      "price": "200",
+      "country": "Armenia",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1675898328/frzz3okykqisflfte3d2.png",
+      "id": 19
+    },
+    {
+      "name": "Pear",
+      "price": "500",
+      "country": "Armenia",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1676150928/ioni9fbysfekwhgoj1i7.png",
+      "id": 20
+    },
+    {
+      "name": "Pineaplle",
+      "price": "700",
+      "country": "Hawai",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1676150784/oat1kdswt5sub9ohgugr.png",
+      "id": 80
+    },
+    {
+      "name": "Orange",
+      "price": "800",
+      "country": "Abkhazia",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1676151566/tvy4uszsg1pa9vkltony.png",
+      "id": 38
+    },
+    {
+      "name": "Corn",
+      "price": "400",
+      "country": "Ukrain",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1675937673/yvljm9scejvsctzuljjm.png",
+      "id": 85
+    },
+    {
+      "name": "Carrot",
+      "price": "500",
+      "country": "Armenia",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1675937622/ujvb9oneo4wvfrn22xyh.png",
+      "id": 35
+    },
+    {
+      "name": "Cauliflower.",
+      "price": "400",
+      "country": "Armenia",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1675937608/euj5t3jfndo7afyxp156.png",
+      "id": 50
+    },
+    {
+      "name": "Balgar pepper",
+      "price": "400",
+      "country": "Georgia",
+      "imageUrl": "http://res.cloudinary.com/dth7rq73s/image/upload/v1675937559/h1zawbolngn35nzxkmg6.png",
+      "id": 3
+    }
+  ]
+}
