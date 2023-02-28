@@ -1,5 +1,7 @@
 This time I will show you the front part of the online store. After it is cloned, it is necessary to open it in the browser with the help of npm i and write npm run dev command to see it in browser. Displaying the products that are received from the admin by pages, searching, adding to the card. Card content is added and deleted using Json-server․ All updates in the admin section will be displayed here․ The contents of the card will be saved to local storage
 
+first install and open admin part, then front
+
 Technologies I used
 React js, css, axios, toolkit, json-server, react-toastify, carusel, grid
 
